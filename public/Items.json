@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Vintage Leica M3 Camera",
+        "description": "This is a vintage camera that has been used for capturing many special moments.",
+        "currentBidPrice": "$2850",
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    },
+    {
+        "id": 2,
+        "title": "sv",
+        "description": "mmk",
+        "currentBidPrice": 2300,
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    },
+    {
+        "id": 3,
+        "title": "sv",
+        "description": "mmk",
+        "currentBidPrice": 2300,
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    },
+    {
+        "id": 4,
+        "title": "sv",
+        "description": "mmk",
+        "currentBidPrice": 2300,
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    },
+    {
+        "id": 5,
+        "title": "sv",
+        "description": "mmk",
+        "currentBidPrice": 2300,
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    },
+    {
+        "id": 6,
+        "title": "sv",
+        "description": "mmk",
+        "currentBidPrice": 2300,
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    },
+    {
+        "id": 7,
+        "title": "sv",
+        "description": "mmk",
+        "currentBidPrice": 2300,
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    },
+    {
+        "id": 8,
+        "title": "sv",
+        "description": "mmk",
+        "currentBidPrice": 2300,
+        "timeLeft": "2 days",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/5W66pW97/Bid1-min.png"
+    }
+]

@@ -5,7 +5,7 @@ const Table = () => {
   const [items, setItems] = useState([]);
 
   const handleBidClick = (e) => {
-    e.classList.add('bg-red-500')
+    e.classList.add('text-red-500')
   }
 
   useEffect(() => {
