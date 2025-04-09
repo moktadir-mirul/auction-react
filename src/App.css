@@ -1,2 +1,12 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+.bn-bg {
+    background-image: url("./assets/banner-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  .bg-color {
+    background-color: #EBF0F5;
+  }
