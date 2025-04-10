@@ -1,6 +1,7 @@
 import './App.css'
 import AuctionArea from './Components/AuctionArea'
 import Banner from './Components/Banner'
+import Footer from './Components/Footer'
 import Navbar from './Components/Navbar'
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Navbar></Navbar>
       <Banner></Banner>
       <AuctionArea></AuctionArea>
+      <Footer></Footer>
     </>
   )
 
